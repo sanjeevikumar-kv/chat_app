@@ -2,13 +2,13 @@
 window.onload = function() {
 
   const firebaseConfig = {
-    apiKey: "AIzaSyC50KDp89HLfuR4PYnH1lWpB3ThHGuvtAg",
-    authDomain: "project-639fb.firebaseapp.com",
-    projectId: "project-639fb",
-    storageBucket: "project-639fb.appspot.com",
-    messagingSenderId: "578176473804",
-    appId: "1:578176473804:web:8354e49cc49348e3c58069",
-    measurementId: "G-1W0LHQCMWQ"
+    apiKey: "<--Add Api key-->",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
     // Initialize Firebase
